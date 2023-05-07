@@ -1,0 +1,18 @@
+{
+    "name": "ZKnight.VideoRecorder.Editor",
+    "rootNamespace": "ZKnight.VideoRecorder.Editor",
+    "references": [
+        "GUID:1230adcc528e5bd418f763c7d3e434e6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

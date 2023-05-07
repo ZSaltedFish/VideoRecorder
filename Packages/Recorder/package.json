@@ -1,0 +1,28 @@
+{
+  "name": "com.zknight.videorecorder",
+  "version": "1.0.0",
+  "description": "Recoder for Unity model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZSaltedFish/THRenderer.git"
+  },
+  "keywords": [
+    "shader",
+    "cartoon"
+  ],
+  "author": "zknight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZSaltedFish/THRenderer/issues"
+  },
+  "homepage": "https://github.com/ZSaltedFish/THRenderer#readme",
+  "displayName": "Video Recorder",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.recorder": "4.0.0"
+  }
+}
